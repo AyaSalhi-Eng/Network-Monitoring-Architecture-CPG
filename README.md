@@ -22,5 +22,5 @@ The supervised network follows a hierarchical design (Core, Distribution, and Ac
 * **L3 Troubleshooting:** Analyzed bottlenecks and interface errors within the multi-site backbone.
 * **Executive Reporting:** Designed automated performance dashboards for IT governance.
 
----
+--- 
 **Aya Salhi** | *Communications & Networks Engineer (EUR-ACE Label)*
