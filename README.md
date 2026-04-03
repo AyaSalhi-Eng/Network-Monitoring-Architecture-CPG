@@ -3,6 +3,12 @@
 ## 📌 Project Overview
 Design and implementation of a centralized network monitoring solution for the **Compagnie des Phosphates de Gafsa (CPG)**. This project focused on ensuring high availability and real-time visibility for a complex industrial multi-site infrastructure.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f67096d-8672-40ae-a80e-31a741906a40" alt="Topologie Réseau CPG OpManager" width="900">
+  <br>
+  <i>Figure 1 : Visualisation de la topologie du Datacenter (Core Switches, Firewalls, MPLS) sous OpManager.</i>
+</p>
+
 ## 🏗️ Infrastructure Architecture
 The supervised network follows a hierarchical design (Core, Distribution, and Access layers) supporting industrial operations across multiple sites:
 * **Core Layer:** High-speed backbone routing and redundancy.
